@@ -19,3 +19,14 @@ This project involves the following tasks:
 • go through the for loop and output numbers only with an even index
 
 • display the array in reverse order.
+
+3. Calculate the sum of array elements in a one-dimensional array consisting of n real elements.
+
+4. Change the sign of all odd array elements.
+
+# Requirements.
+To run this project, you must have the following installed on your computer: IntelliJ IDEA Community Edition.
+
+# Build Instructions
+Clone the repository to your local machine using <br>
+git clone

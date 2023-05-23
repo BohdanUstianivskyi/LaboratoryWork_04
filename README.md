@@ -29,4 +29,9 @@ To run this project, you must have the following installed on your computer: Int
 
 # Build Instructions
 Clone the repository to your local machine using <br>
-git clone https://github.com/BohdanUstianivskyi/LaboratoryWork_04.
+git clone https://github.com/BohdanUstianivskyi/LaboratoryWork_04
+
+# Results
+
+Task_1: <br>
+
